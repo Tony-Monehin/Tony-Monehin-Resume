@@ -4,7 +4,7 @@ title: "Tony Monehin"
 name: "Tony Monehin's Portfolio in Jekyll"
 email: 
 url: "https://Tony-Monehin.github.io"
-baseurl: "/jekyll-resume-template"
+baseurl: "/Tony-Monehin-Resume"
 repository: "Tony-Monehin/Tony-Monehin-Resume"
 header:
   image: /assets/images/banner-husky.jpg
