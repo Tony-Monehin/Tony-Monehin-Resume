@@ -5,7 +5,7 @@
 
 ## What I did
 
-This week I led the Huskies out of the tunnel at **Huskie Stadium** for the home opener. It was my first game of the season, so I spent the week rehearsing a new entrance with the NIU cheer team.
+Today I worked on setting up Julia for my economics coursework and making my GitHub repository public so I could use GitHub Pages. I also tried running a Julia script and encountered an undefined-variable error.
 
 ## What I learned
 
