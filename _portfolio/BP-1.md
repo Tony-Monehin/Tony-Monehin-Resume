@@ -9,17 +9,15 @@ This week I led the Huskies out of the tunnel at **Huskie Stadium** for the home
 
 ## What I learned
 
-- **Practice in costume.** Moves that are easy in a T-shirt are much harder with a giant husky head on.
-- **Plan for the weather.** It was 85°F on the field, so water breaks between quarters were a must.
-- **The crowd follows your energy.** When I got the student section going, the rest of the stadium joined in.
-
+- Installing Julia separately doesn’t automatically make it appear in Anaconda Navigator.
+- IJulia connects Julia to Jupyter notebooks.
+- Julia’s error messages identify the line where a problem occurs, which helps guide debugging.
+  
 > "Spirit is contagious. Someone just has to start it." — a wise cheer coach
 
 ## What I'd do next time
 
-1. Rehearse on the actual field, not just in the gym
-2. Coordinate the T-shirt cannon timing with the band
-3. Bring a spare pair of gloves
+1. I’d test the setup with a small example first, check that variables are defined before using them, and review my repository for private information before making it public.
 
 Here's a photo from campus:
 
